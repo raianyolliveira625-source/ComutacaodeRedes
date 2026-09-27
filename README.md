@@ -15,4 +15,4 @@ Durante o desenvolvimento da atividade, foi realizada a criação de uma topolog
 [ATIVIDADE PING.pdf]
 (https://github.com/user-attachments/files/32711885/ATIVIDADE.PING.pdf)
 
-[PING PC PC.pdf](https://github.com/user-attachments/files/32712860/PING.PC.PC.pdf)
+[PING PC X PC.pdf](https://github.com/user-attachments/files/32713016/PING.PC.X.PC.pdf)
